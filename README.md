@@ -1,6 +1,6 @@
 # NeuralHash Classifier
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjsman/NeuralHash-Classifier/blob/main/NeuralHash_Classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kjsman/NeuralHash-Classifier/blob/main/NeuralHash_Classifier.ipynb)
 
 This is a classifier for an output of Apple's [NeuralHash](https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf) function.
 
